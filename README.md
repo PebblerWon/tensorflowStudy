@@ -1,2 +1,4 @@
 # tensorflowStudy
 tensorflow学习历程
+记录我的tensorflow学习过程
+顺便熟悉github的使用
